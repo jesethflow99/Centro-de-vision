@@ -1,0 +1,33 @@
+[
+    {
+      "icon": "bi-eye",
+      "title": "Exámenes de la vista",
+      "description": "Evaluación completa de su salud visual con equipos de última generación."
+    },
+    {
+      "icon": "bi-eyeglasses",
+      "title": "Óptica",
+      "description": "Gran variedad de marcos y lentes con la mejor calidad y garantía."
+    },
+    {
+      "icon": "bi-clipboard-pulse",
+      "title": "Cirugías",
+      "description": "Procedimientos quirúrgicos con tecnología avanzada y mínima recuperación."
+    },
+    {
+      "icon": "bi-capsule",
+      "title": "Tratamientos especializados",
+      "description": "Soluciones para condiciones específicas como glaucoma, cataratas y retinopatía."
+    },
+    {
+      "icon": "bi-person-check",
+      "title": "Consultas pediátricas",
+      "description": "Atención especializada para niños en un ambiente amigable y seguro."
+    },
+    {
+      "icon": "bi-clipboard2-minus",
+      "title": "Certificados médicos",
+      "description": "Emisión de certificados para licencias, seguros y trámites laborales."
+    }
+  ]
+  

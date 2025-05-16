@@ -8,9 +8,7 @@ import ListItemButton from "@mui/material/ListItemButton";
 import ListItemText from "@mui/material/ListItemText";
 import { motion } from "framer-motion";
 import Set_theme from "../../components/set_theme/Set_theme";
-
-
-import "./Header.css";
+import "./header.css";
 
 function TemporaryDrawer({list}) {
   const [open, setOpen] = React.useState(false);
